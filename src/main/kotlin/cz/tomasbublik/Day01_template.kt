@@ -1,5 +1,6 @@
 package cz.tomasbublik
 
+
 fun main() {
     fun part1(input: List<String>): Int {
         return input.size
@@ -18,3 +19,4 @@ fun main() {
     println(part1(input))
     println(part2(input))
 }
+
